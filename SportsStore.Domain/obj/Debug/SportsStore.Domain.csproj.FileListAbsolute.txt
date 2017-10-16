@@ -1,0 +1,17 @@
+H:\VsProject\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+H:\VsProject\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+H:\VsProject\SportsStore\SportsStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\VsProject\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Helpers.dll
+H:\VsProject\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
+H:\VsProject\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Razor.dll
+H:\VsProject\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\VsProject\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.dll
+H:\VsProject\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+H:\VsProject\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Helpers.xml
+H:\VsProject\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.xml
+H:\VsProject\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Razor.xml
+H:\VsProject\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.xml
+H:\VsProject\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\VsProject\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+H:\VsProject\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+H:\VsProject\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
