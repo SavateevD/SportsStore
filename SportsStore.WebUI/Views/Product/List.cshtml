@@ -1,11 +1,16 @@
-﻿@using SportsStore.Domain.Entities
-@model IEnumerable<Product>
+﻿@using SportsStore.WebUI.Models
+@model ProductsListViewModel
+
+@using SportsStore.WebUI.HtmlHelpers
+<!--Необходимо использовать using SportsStore.WebUI.HtmlHelpers, чтобы расширенный вспомогательный метод html был доступен в представлении
+     либо добавить пространство имент в область видимости в Views/Web.config-->
+
 
 @{
     ViewBag.Title = "Products";
 }
 
-@foreach (var p in Model)
+@foreach (var p in Model.Products)
 {
     <div>
         <h3>
@@ -17,5 +22,8 @@
         </h4>
     </div>
 }
+<div>
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("List", new { page = x } ))
+</div>
 
 

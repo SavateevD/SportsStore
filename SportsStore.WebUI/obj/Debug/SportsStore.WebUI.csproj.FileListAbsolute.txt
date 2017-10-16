@@ -64,3 +64,7 @@ H:\VsProject\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
 H:\VsProject\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll.config
 H:\VsProject\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
 H:\VsProject\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+H:\VsProject\SportsStore\SportsStore.WebUI\bin\System.Web.Http.dll
+H:\VsProject\SportsStore\SportsStore.WebUI\bin\System.Web.Http.SelfHost.dll
+H:\VsProject\SportsStore\SportsStore.WebUI\bin\System.Web.Http.WebHost.dll
+H:\VsProject\SportsStore\SportsStore.WebUI\bin\System.Net.Http.Formatting.dll
