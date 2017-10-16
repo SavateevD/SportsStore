@@ -59,3 +59,8 @@ H:\VsProject\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 H:\VsProject\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
 H:\VsProject\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
 H:\VsProject\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+H:\VsProject\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+H:\VsProject\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+H:\VsProject\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll.config
+H:\VsProject\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+H:\VsProject\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
