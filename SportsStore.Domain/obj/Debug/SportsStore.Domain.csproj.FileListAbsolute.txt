@@ -20,3 +20,4 @@ H:\VsProject\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
 H:\VsProject\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
 H:\VsProject\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
 H:\VsProject\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+H:\VsProject\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
